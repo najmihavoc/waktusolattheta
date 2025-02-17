@@ -1,2 +1,2 @@
-# waktusolattheta
+# waktusolattheta.github.io
 waktu solat
