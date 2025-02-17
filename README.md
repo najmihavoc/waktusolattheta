@@ -1,0 +1,2 @@
+# waktusolattheta
+waktu solat
